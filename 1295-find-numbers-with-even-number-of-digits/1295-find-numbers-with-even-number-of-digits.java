@@ -1,16 +1,17 @@
 class Solution {
     public int findNumbers(int[] nums) {
-        int count = 0;
+        int ans = 0;
         for(int i = 0; i < nums.length; i++){
-            int num = nums[i];
-            if(num >= 10 && num <= 99){
+            int n = nums[i];
+            int count = 0;
+            while(n > 0){
                 count++;
-            } else if (num >= 1000 && num <= 9999){
-                count++;
-            }else if(num == 100000){
-                count++;
+                n /= 10;
             }
-        }   
-        return count;
+            if(count % 2 == 0){
+                ans++;
+            }
+        }
+        return ans;
     }
 }
