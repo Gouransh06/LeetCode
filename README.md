@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Gouransh06/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Gouransh06/LeetCode/tree/master/0069-sqrtx) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gouransh06/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gouransh06/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Gouransh06/LeetCode/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Gouransh06/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
