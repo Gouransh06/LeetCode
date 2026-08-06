@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gouransh06/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gouransh06/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/Gouransh06/LeetCode/tree/master/1406-stone-game-iii) |
+| [2235-add-two-integers](https://github.com/Gouransh06/LeetCode/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gouransh06/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
 |  |
