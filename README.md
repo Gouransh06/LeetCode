@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gouransh06/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Gouransh06/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Gouransh06/LeetCode/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/Gouransh06/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Gouransh06/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gouransh06/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/Gouransh06/LeetCode/tree/master/1406-stone-game-iii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gouransh06/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Gouransh06/LeetCode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Gouransh06/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/Gouransh06/LeetCode/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
