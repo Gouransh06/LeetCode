@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Gouransh06/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Gouransh06/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gouransh06/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gouransh06/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Gouransh06/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gouransh06/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Gouransh06/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Gouransh06/LeetCode/tree/master/0344-reverse-string) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gouransh06/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Gouransh06/LeetCode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Gouransh06/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Gouransh06/LeetCode/tree/master/0704-binary-search) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gouransh06/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Gouransh06/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gouransh06/LeetCode/tree/master/0268-missing-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gouransh06/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Gouransh06/LeetCode/tree/master/3731-find-missing-elements) |
 ## Memoization
 |  |
