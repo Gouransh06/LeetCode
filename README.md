@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gouransh06/LeetCode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Gouransh06/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gouransh06/LeetCode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/Gouransh06/LeetCode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Gouransh06/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gouransh06/LeetCode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/Gouransh06/LeetCode/tree/master/3731-find-missing-elements) |
 ## Memoization
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Gouransh06/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Gouransh06/LeetCode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Gouransh06/LeetCode/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Gouransh06/LeetCode/tree/master/1108-defanging-an-ip-address) |
