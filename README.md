@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Gouransh06/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Gouransh06/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Gouransh06/LeetCode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Gouransh06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gouransh06/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Gouransh06/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Gouransh06/LeetCode/tree/master/0268-missing-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gouransh06/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Gouransh06/LeetCode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Gouransh06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Gouransh06/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Gouransh06/LeetCode/tree/master/1406-stone-game-iii) |
 ## Game Theory
