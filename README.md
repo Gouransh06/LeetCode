@@ -147,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gouransh06/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Gouransh06/LeetCode/tree/master/0053-maximum-subarray) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Gouransh06/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
