@@ -3,19 +3,21 @@ class Solution {
         if(x < 0){
             return false;
         }
-        String str = Integer.toString(x);
         if(x == 0){
             return true;
         }
-        int len = str.length();
+
+        String str = Integer.toString(x);
         int left = 0;
-        int right = str.length() - 1;
+        int right = str.length();
         while(left < right){
-            if(str.charAt(left) != str.charAt(right)){
+            if(str.charAt(left) != str.charAt(right - 1)){
                 return false;
             }
-            left++;
-            right--;
+            else{
+                left++;
+                right--;
+            }
         }
         return true;
     }
