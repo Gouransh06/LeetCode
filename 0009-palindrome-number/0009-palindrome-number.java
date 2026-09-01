@@ -7,14 +7,15 @@ class Solution {
             return true;
         }
 
-        String str = Integer.toString(x);
+        String s = Integer.toString(x);
+
         int left = 0;
-        int right = str.length();
+        int right = s.length() - 1;
+
         while(left < right){
-            if(str.charAt(left) != str.charAt(right - 1)){
+            if(s.charAt(left) != s.charAt(right)){
                 return false;
-            }
-            else{
+            }else{
                 left++;
                 right--;
             }
