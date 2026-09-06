@@ -1,25 +1,22 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        if(x < 0){
+        
+        if(x < 0 ){
             return false;
         }
-        if(x == 0){
+        if(x < 10){
             return true;
         }
-
-        String s = Integer.toString(x);
-
-        int left = 0;
-        int right = s.length() - 1;
-
-        while(left < right){
-            if(s.charAt(left) != s.charAt(right)){
-                return false;
-            }else{
-                left++;
-                right--;
-            }
+        int n = x;
+        int reverse = 0;
+        while(x > 0){
+            int rem = x % 10;
+            x /= 10;
+            reverse = (reverse * 10) + rem;
         }
-        return true;
+        if(reverse == n){
+            return true;
+        }
+        return false;
     }
 }
