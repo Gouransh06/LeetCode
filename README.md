@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Gouransh06/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gouransh06/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Gouransh06/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Gouransh06/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Gouransh06/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Gouransh06/LeetCode/tree/master/0035-search-insert-position) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Gouransh06/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Gouransh06/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Gouransh06/LeetCode/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gouransh06/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -187,5 +189,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Gouransh06/LeetCode/tree/master/0011-container-with-most-water) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Gouransh06/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
