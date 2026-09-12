@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Gouransh06/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Gouransh06/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Gouransh06/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0860-lemonade-change](https://github.com/Gouransh06/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Gouransh06/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gouransh06/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/Gouransh06/LeetCode/tree/master/1406-stone-game-iii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gouransh06/LeetCode/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/Gouransh06/LeetCode/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Gouransh06/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Quicksort
 |  |
