@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/Gouransh06/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2235-add-two-integers](https://github.com/Gouransh06/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Gouransh06/LeetCode/tree/master/2469-convert-the-temperature) |
+| [2525-categorize-box-according-to-criteria](https://github.com/Gouransh06/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gouransh06/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gouransh06/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
