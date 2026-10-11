@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Gouransh06/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Gouransh06/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Gouransh06/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Gouransh06/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Gouransh06/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Gouransh06/LeetCode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Gouransh06/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Gouransh06/LeetCode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Gouransh06/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gouransh06/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gouransh06/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Gouransh06/LeetCode/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/Gouransh06/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 ## Prime Factorization
 |  |
