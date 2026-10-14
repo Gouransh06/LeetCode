@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Gouransh06/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Gouransh06/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Gouransh06/LeetCode/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/Gouransh06/LeetCode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Gouransh06/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Gouransh06/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Gouransh06/LeetCode/tree/master/0709-to-lower-case) |
