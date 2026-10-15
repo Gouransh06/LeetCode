@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Gouransh06/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Gouransh06/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Gouransh06/LeetCode/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/Gouransh06/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Gouransh06/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gouransh06/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/Gouransh06/LeetCode/tree/master/1095-find-in-mountain-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Gouransh06/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Gouransh06/LeetCode/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Gouransh06/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0905-sort-array-by-parity](https://github.com/Gouransh06/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gouransh06/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gouransh06/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Gouransh06/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gouransh06/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Gouransh06/LeetCode/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/Gouransh06/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gouransh06/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gouransh06/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Gouransh06/LeetCode/tree/master/3731-find-missing-elements) |
