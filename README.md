@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gouransh06/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Gouransh06/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Gouransh06/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gouransh06/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Gouransh06/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gouransh06/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1672-richest-customer-wealth](https://github.com/Gouransh06/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Gouransh06/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gouransh06/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gouransh06/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -329,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Gouransh06/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/Gouransh06/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/Gouransh06/LeetCode/tree/master/2833-furthest-point-from-origin) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gouransh06/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
