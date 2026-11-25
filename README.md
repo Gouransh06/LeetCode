@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Gouransh06/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Gouransh06/LeetCode/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/Gouransh06/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Gouransh06/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gouransh06/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Gouransh06/LeetCode/tree/master/0268-missing-number) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Gouransh06/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Gouransh06/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Gouransh06/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Gouransh06/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gouransh06/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Gouransh06/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Gouransh06/LeetCode/tree/master/0268-missing-number) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Gouransh06/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gouransh06/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Gouransh06/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Gouransh06/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Gouransh06/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Gouransh06/LeetCode/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Gouransh06/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -344,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gouransh06/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Gouransh06/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
